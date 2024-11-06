@@ -1,6 +1,6 @@
-# paml_5210411335_muhrayhan
+# PAML_5210411335_muhrayhan
 
-A new Flutter project.
+Project Flutter.
 
 ## Getting Started
 
