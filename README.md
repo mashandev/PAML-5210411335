@@ -14,6 +14,5 @@ Project Pengembangan Aplikasi Mobile Lanjut - Flutter.
 <img src="https://github.com/user-attachments/assets/2fff7898-690a-4dca-8036-93cdc4518fa1" width="150"/>
 
 ## Dev
-
-Nama : Muhammad Rayhan Budi Ihtisan
-Npm : 5210411335
+- Nama : Muhammad Rayhan Budi Ihtisan
+- Npm : 5210411335
